@@ -1,5 +1,5 @@
 task.spawn(function()
-loadstring(game:HttpGet("https://pastebin.com/raw/99WeFkzV"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/UniversalScriptHub/rayfieldGuiSabMain/refs/heads/main/gui"))()
 end)
 task.wait(0.2)
 loadstring(game:HttpGet("https://cdn.sourceb.in/bins/Fd6Hchvxg2/0"))()
